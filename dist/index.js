@@ -12,9 +12,9 @@ function myFunction(){
       'bl-modal'
   );
 
-  // const iframeSrc = https://m.preproduction.bukalapak.com/live-streaming/widgets/shopping;
+  const iframeSrc = 'https://m.preproduction.bukalapak.com/live-streaming/widgets/shopping';
   
-  const iframeSrc = 'https://review.bukalapak.com/widgets/dynamic_banners_v2?product-category-id=8&keywords=iphone&dimension=760x365&sort=bestratingratio&rating=3&utm=source%3Dkly%2Cmedium%3Dreferral-affiliate&theme=&compact-product=false&show-banner=true&logo-style=dark&background-color=%23ffffff';
+//   const iframeSrc = 'https://review.bukalapak.com/widgets/dynamic_banners_v2?product-category-id=8&keywords=iphone&dimension=760x365&sort=bestratingratio&rating=3&utm=source%3Dkly%2Cmedium%3Dreferral-affiliate&theme=&compact-product=false&show-banner=true&logo-style=dark&background-color=%23ffffff';
   
 //   const iframeSrc = 'http://m.local.host:5004/live-streaming/widgets/shopping';
 
